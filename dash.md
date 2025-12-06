@@ -1,17 +1,4 @@
-I'll create a formatted, downloadable lesson document in PDF format. Since I can't directly create PDFs, I'll provide you with **Markdown code** that you can easily convert to a beautiful PDF using free online tools.
-
----
-
 # **COMPLETE LESSON: Building a Video Game Analytics Dashboard with Streamlit**
-
-## **Module Overview**
-**Course:** Data Analytics with Python  
-**Module:** Streamlit Dashboard Development  
-**Duration:** 2 Hours  
-**Level:** Beginner to Intermediate  
-**Prerequisites:** Basic Python, Pandas, Data Visualization  
-
----
 
 ## **Table of Contents**
 
@@ -637,5 +624,6 @@ authenticator = stauth.Authenticate(
 
 
 ---
+
 
 **Happy Dashboard Building! 🎮📊🚀**
